@@ -7,11 +7,11 @@ Gem::Specification.new do |spec|
   spec.name          = "mini_test_practice_z15015to"
   spec.version       = MiniTestPracticeZ15015to::VERSION
   spec.authors       = ["Tetsuya Ochiai"]
-  spec.email         = ["ochiai@ryorika-mm.jp"]
+  spec.email         = ["z15015to@aiit.ac.jp"]
 
   spec.summary       = %q{MiniTestPractice}
   spec.description   = %q{MiniTestPracrice}
-  spec.homepage      = "http://aiit.ac.jp/"
+  spec.homepage      = "http://rubygems.org/gems/mini_test_practice_z150150to"
   spec.license       = "MIT" 
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
